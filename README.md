@@ -31,5 +31,7 @@ Welcome to the Self Checkout System project implemented visually using visual pr
   A one-minute video providing a brief overview of what a Self-Checkout System entails, along with examples demonstrating the execution of a Statechart and an LSC. Furthermore, the video illustrates the connection between the graphical user interface (GUI) and the Statechart, showcasing how they interact seamlessly.
  
   Click the image below to watch the video:  
-  [<img src="https://i.ytimg.com/vi/kMGCeuvlchA/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=vWGB5EpwbE8 "Visual Programming Final Project")
   [<img src="https://i.ytimg.com/vi/vWGB5EpwbE8/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=vWGB5EpwbE8 "Visual Programming Final Project")
+  [![Visual Programming Final Project]          // Title
+(https://i.ytimg.com/vi/vWGB5EpwbE8/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=vWGB5EpwbE8 "Visual Programming Final Project")    // Video Link
