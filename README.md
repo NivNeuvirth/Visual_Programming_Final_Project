@@ -32,6 +32,4 @@ Welcome to the Self Checkout System project implemented visually using visual pr
  
   Click the image below to watch the video:  
   [<img src="https://i.ytimg.com/vi/vWGB5EpwbE8/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=vWGB5EpwbE8 "Visual Programming Final Project")
-  [![Visual Programming Final Project]
-(https://i.ytimg.com/vi/vWGB5EpwbE8/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=vWGB5EpwbE8 "Visual Programming Final Project")
+  [![Visual Programming Final Project](https://i.ytimg.com/vi/vWGB5EpwbE8/maxresdefault.jpg)](https://www.youtube.com/watch?v=vWGB5EpwbE8 "Visual Programming Final Project")
